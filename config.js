@@ -8,5 +8,5 @@ var config = {
   /** GitHub repo 名称 */
   repo: 'ibt',
   /** 每页多少篇博客 */
-  per_page: 5,
+  per_page: 4,
 };
