@@ -1,12 +1,12 @@
 var config = {
   /** 博客名称 */
-  blogname: 'Blog',
+  blogname: 'Blog of brite',
   /** document.title 的分割 */
   sep: ' - ',
   /** GitHub账号 */
-  user: 'niexia',
+  user: 'briteming',
   /** GitHub repo 名称 */
-  repo: 'niexia.github.io',
+  repo: 'ibt',
   /** 每页多少篇博客 */
-  per_page: 15,
+  per_page: 5,
 };
